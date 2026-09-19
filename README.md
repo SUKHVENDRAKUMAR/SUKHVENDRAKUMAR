@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Sukhvendra Yadav
 
-<!--
-**SUKHVENDRAKUMAR/SUKHVENDRAKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python | Django | FastAPI | REST API Developer
 
-Here are some ideas to get you started:
+I am a backend developer passionate about building
+web applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- REST API
+- HTML
+- CSS
+- JavaScript
+- SQLite / MySQL
+- Git & GitHub
+
+## 🛠️ Projects
+
+### 🚗 Car Rental System
+Django-based car rental application with user,
+rental and vehicle management.
+
+### 📝 E-Notes Management System
+A web application for managing notes using Django.
+
+### ⚡ FastAPI REST API
+REST APIs built using FastAPI with API testing using pytest.
+
+## 📚 Currently Learning
+
+- Advanced Django
+- FastAPI
+- REST API Development
+- Backend Architecture
+- Deployment
+
+## 📫 Connect With Me
+
+- GitHub
+- LinkedIn
+- Email
